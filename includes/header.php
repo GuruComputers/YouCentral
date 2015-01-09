@@ -20,13 +20,13 @@
 		<br />
 		<p class="mcn">A Youtube MCN</p>
 		<br />
-		<table width="40%">
-			<tr>
-				<td width="10%"><p class="partner">Partner</p></td>
-				<td width="20%"><img src="img/partner.png" alt="hands shaking to signify partner" class="img-responsive partner_img"></td>
-				<td width="10%"><p class="with_us">with us.</p></td>
-			</tr>
-		</table>
+		<div class="partner_container">
+    		<div class="row">
+        		<div class="col-sm-4"><p class="partner">Partner</p></div>
+        		<div class="col-sm-4"><img src="img/partner.png" alt="hands shaking to signify partner" class="img-responsive partner_img"></div>
+        		<div class="col-sm-4"><p class="with_us">with us.</p></div>
+    		</div>
+		</div>
 		<br />
 	</center>
 </div>
