@@ -85,7 +85,7 @@
         </div>
         <div class="col-sm-4 benefit">
         	<p>
-        		<img src="../img/business.png" alt="Direct with YouTube" class="img-responsive benefit_icon">
+        		<img src="../img/minecraft.png" alt="Direct with YouTube" class="img-responsive benefit_icon">
         		<h3>Game Servers</h3>
         		<p>We are currently in the process of bringing you a Minecraft Server!</p>
         	</p>
