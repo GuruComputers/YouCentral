@@ -20,7 +20,13 @@
 		<br />
 		<p class="mcn">A Youtube MCN</p>
 		<br />
-		<p class="partner">Partner<img src="img/partner.png" alt="hands shaking to signify partner" class="img-responsive partner_img">with us.</p>
+		<table>
+			<tr>
+				<td><p class="partner">Partner</p></td>
+				<td><img src="img/partner.png" alt="hands shaking to signify partner" class="img-responsive partner_img"></td>
+				<td><p class="partner">with us.</p></td>
+			</tr>
+		</table>
 		<br />
 	</center>
 </div>
