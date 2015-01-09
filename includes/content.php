@@ -3,17 +3,21 @@
         <div class="col-sm-4 benefit">
         	<p>
         		<img src="../img/youtube.png" alt="Direct with YouTube" class="img-responsive benefit_icon">
+        		<h3>Networked with YouTube</h3>
         		<p>We are a subnetwork of Freedom</p>
         	</p>
         </div>
         <div class="col-sm-4 benefit">
         	<p>
         		<img src="../img/unlock.png" alt="Direct with YouTube" class="img-responsive benefit_icon">
+        		<h3>No Lock in Contract</h3>
+        		<p>Come or go anytime, you decide when (just give us 30 days notice)</p>
         	</p>
         </div>
         <div class="col-sm-4 benefit">
         	<p>
         		<img src="../img/eye.png" alt="Direct with YouTube" class="img-responsive benefit_icon">
+        		<h3>Transparency</h3>
         	</p>
         </div>
     </div>
@@ -21,6 +25,8 @@
         <div class="col-sm-4 benefit">
         	<p>
         		<img src="../img/revenue.png" alt="Direct with YouTube" class="img-responsive benefit_icon">
+        		<h3>Revenue Share</h3>
+        		<p>60% base revenue share (As you grow, your percentage will get bigger!)</p>
         	</p>
         </div>
         <div class="col-sm-4 benefit">
