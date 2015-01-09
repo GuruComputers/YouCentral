@@ -23,9 +23,7 @@
 	</div>
 	<div class="partner_container">
 		<div class="row partner_row">
-    		<div class="col-sm-4 partner">Partner</div>
-    		<div class="col-sm-4"><img src="img/partner.png" alt="hands shaking to signify partner" class="img-responsive partner_img"></div>
-    		<div class="col-sm-4 with_us">with us.</div>
+    		<div class="col-sm-12"><img src="img/partner.png" alt="hands shaking to signify partner" class="img-responsive partner_img"></div>
 		</div>
 	</div>
 	<br />
