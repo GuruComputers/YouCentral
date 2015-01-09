@@ -65,11 +65,24 @@ body {
 	height: inherit;
 }
 
+
+.footer_container {
+	margin-left: auto;
+	margin-right: auto;
+}
+
 .footer_icon {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
 	max-height: 25px;
 	width: auto;
 }
 
 .footer_copyright {
 	text-align: right;
+}
+
+.footer_guru {
+	text-align: left;
 }
