@@ -18,6 +18,7 @@
         	<p>
         		<img src="../img/eye.png" alt="Direct with YouTube" class="img-responsive benefit_icon">
         		<h3>Transparency</h3>
+        		<p>We enable revenue visibility in your YouTube channel and nothing is hidden</p>
         	</p>
         </div>
     </div>
