@@ -18,7 +18,7 @@
 	</script>
 	<div class="mcn_container">
 		<div class="row">
-    		<div class="col-sm-12 mcn">A Youtube MCN</div>
+    		<div class="col-sm-12 mcn">A YouTube MCN</div>
 		</div>
 	</div>
 	<div class="partner_container">
