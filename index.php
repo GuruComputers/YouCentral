@@ -21,5 +21,6 @@
 				include 'includes/footerad.php';
 			?>
 		</footer>
+		<br />
 	</body>
 </html>
