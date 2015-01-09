@@ -9,6 +9,7 @@
 		$cy=$start."-".$current;
 	}
 ?>
+<br /><br />
 <div class="footer_container">
     <div class="row">
         <div class="col-sm-4"><?php echo "&copy"." ".$cy; ?></div>
@@ -17,3 +18,4 @@
         <div class="col-sm-4">Free website developed by <a href="http://www.gurucomputers.co.uk">Guru Computers Ltd</a></div>
     </div>
 </div>
+<br /><br />
