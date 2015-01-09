@@ -10,7 +10,7 @@ body {
 }
 
 .partner_img {
-	width: inherit;
+	width: 100%;
 	height: auto;
 }
 
@@ -18,3 +18,10 @@ body {
 	width: 40%;
 }
 
+.partner {
+	float: right;
+}
+
+.with_us {
+	float: left;
+}
