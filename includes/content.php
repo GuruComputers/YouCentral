@@ -69,14 +69,21 @@
         </div>
     </div>
     <div class="row text-center">
-        <div class="col-sm-6 benefit">
+        <div class="col-sm-4 benefit">
         	<p>
         		<img src="../img/dollar.png" alt="Direct with YouTube" class="img-responsive benefit_icon">
         		<h3>No Withholding Tax</h3>
         		<p>You earn 100% of everything you make. There are no tax forms to fill out from Freedom!, and no withholding tax. Simple.</p>
         	</p>
         </div>
-        <div class="col-sm-6 benefit">
+        <div class="col-sm-4 benefit">
+        	<p>
+        		<img src="../img/business.png" alt="Direct with YouTube" class="img-responsive benefit_icon">
+        		<h3>We Sponsor Networks!</h3>
+        		<p>Tell us your business plan and why you want to be a network. If accepted, we are your technology partner but you make all the decisions.</p>
+        	</p>
+        </div>
+        <div class="col-sm-4 benefit">
         	<p>
         		<img src="../img/business.png" alt="Direct with YouTube" class="img-responsive benefit_icon">
         		<h3>We Sponsor Networks!</h3>
@@ -84,4 +91,13 @@
         	</p>
         </div>
     </div>
+     <div class="row text-center">
+     	<div class="col-sm-12 benefit">
+     		<p>
+     			<img src="../img/business.png" alt="Direct with YouTube" class="img-responsive benefit_icon">
+        		<h3>We Sponsor Networks!</h3>
+        		<p>Tell us your business plan and why you want to be a network. If accepted, we are your technology partner but you make all the decisions.</p>
+     		</p>
+     	</div>
+     </div>
 </div>
