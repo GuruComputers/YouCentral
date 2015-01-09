@@ -65,6 +65,8 @@ header {
 	margin-left: auto;
 	margin-right: auto;
 	height: 100%;
+	font-size: 0.4em;
+	vertical-align: middle;
 }
 
 .partner_row {
