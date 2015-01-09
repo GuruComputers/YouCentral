@@ -18,7 +18,6 @@ body {
 	width: 40%;
 }
 
-<<<<<<< HEAD
 .benefits {
 	text-align: center;
 }
@@ -26,12 +25,12 @@ body {
 .benefits_icon {
 	max-width: 50%;
 	height: auto;
-=======
+}
+
 .partner {
 	float: right;
 }
 
 .with_us {
 	float: left;
->>>>>>> FETCH_HEAD
 }
