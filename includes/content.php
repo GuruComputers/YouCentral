@@ -94,7 +94,7 @@
      <div class="row text-center">
      	<div class="col-sm-12 benefit">
      		<p>
-     			<img src="../img/business.png" alt="Direct with YouTube" class="img-responsive benefit_icon">
+     			<img src="../img/teamspeak.png" alt="Direct with YouTube" class="img-responsive benefit_icon">
         		<h3>Teamspeak</h3>
         		<p>We are currently in the process of bringing you a TeamSpeak Server!</p>
      		</p>
