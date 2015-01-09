@@ -4,6 +4,11 @@ body {
 	overflow-x: hidden;
 }
 
+header {
+	font-family: 'Black Ops One', cursive;
+	font-size: 5em;
+}
+
 .banner {
 	width: 100%;
 	height: auto;

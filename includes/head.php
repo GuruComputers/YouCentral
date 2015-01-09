@@ -23,6 +23,7 @@
 		<link media="all" type="text/css" rel="stylesheet" href="../css/normalize.css">
 		<link media="all" type="text/css" rel="stylesheet" href="../css/main.css">
 		<link href="../bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" media="screen">
+		<link href='http://fonts.googleapis.com/css?family=Black+Ops+One' rel='stylesheet' type='text/css'>
 		<!--[if lt IE 9]>
 			<script src="bootstrap/assets/js/html5shiv.js"></script>
 			<script src="bootstrap/assets/js/respond.min.js"></script>
