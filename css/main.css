@@ -64,3 +64,8 @@ body {
 .partner_row {
 	height: inherit;
 }
+
+.footer_icon {
+	max-height: 50px;
+	width: auto;
+}
