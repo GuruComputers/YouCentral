@@ -42,13 +42,27 @@ body {
 }
 
 .partner {
-	max-width: 75%;
-	margin-left: auto;
-	margin-right: 0;
+	text-align: right;
+	vertical-align: middle;
+	height: 100%;
 }
 
 .with_us {
-	max-width: 75%;
+	text-align: left;
+	vertical-align: middle;
+	height: inherit;
+}
+
+.mcn_container {
+	text-align: center;
+}
+
+.partner_container {
+	margin-left: auto;
 	margin-right: auto;
-	margin-left: 0;
+	height: 100%;
+}
+
+.partner_row {
+	height: inherit;
 }

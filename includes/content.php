@@ -1,5 +1,5 @@
 <div class="benefits">
-    <div class="row benefits1">
+    <div class="row text-center">
         <div class="col-sm-4 benefit">
         	<p>
         		<img src="../img/youtube.png" alt="Direct with YouTube" class="img-responsive benefit_icon">
@@ -17,7 +17,7 @@
         	</p>
         </div>
     </div>
-    <div class="row benefits2">
+    <div class="row text-center">
         <div class="col-sm-4 benefit">
         	<p>
         		<img src="../img/revenue.png" alt="Direct with YouTube" class="img-responsive benefit_icon">
@@ -34,7 +34,7 @@
         	</p>
         </div>
     </div>
-    <div class="row benefits3">
+    <div class="row text-center">
         <div class="col-sm-4 benefit">
         	<p>
         		<img src="../img/tick.png" alt="Direct with YouTube" class="img-responsive benefit_icon">
@@ -51,7 +51,7 @@
         	</p>
         </div>
     </div>
-    <div class="row benefits4">
+    <div class="row text-center">
         <div class="col-sm-6 benefit">
         	<p>
         		<img src="../img/dollar.png" alt="Direct with YouTube" class="img-responsive benefit_icon">
