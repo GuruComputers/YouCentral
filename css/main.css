@@ -27,6 +27,7 @@ body {
 
 .benefit_icon {
 	max-width: 50%;
+	min-height: 100px;
 	height: auto;
     display: block;
     margin-left: auto;
