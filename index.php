@@ -18,6 +18,7 @@
 		<footer>
 			<?php
 				include 'includes/footer.php';
+				include 'includes/footerad.php';
 			?>
 		</footer>
 	</body>
