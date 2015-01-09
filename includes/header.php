@@ -26,5 +26,4 @@
     		<div class="col-sm-12"><img src="img/partner.png" alt="hands shaking to signify partner" class="img-responsive partner_img"></div>
 		</div>
 	</div>
-	<br />
 </div>
