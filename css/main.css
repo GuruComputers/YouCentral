@@ -10,7 +10,7 @@ body {
 }
 
 .partner_img {
-	width: 20%;
+	width: inherit;
 	height: auto;
 }
 
