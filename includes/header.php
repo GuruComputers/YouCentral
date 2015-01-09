@@ -21,7 +21,6 @@
     		<div class="col-sm-12 mcn">A Youtube MCN</div>
 		</div>
 	</div>
-	<br />
 	<div class="partner_container">
 		<div class="row partner_row">
     		<div class="col-sm-4 partner">Partner</div>
