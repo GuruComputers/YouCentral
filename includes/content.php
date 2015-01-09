@@ -33,11 +33,15 @@
         <div class="col-sm-4 benefit">
         	<p>
         		<img src="../img/money.png" alt="Direct with YouTube" class="img-responsive benefit_icon">
+        		<h3>No Minimum Payout</h3>
+        		<p>If you earn $1, we pay you $1</p>
         	</p>
         </div>
         <div class="col-sm-4 benefit">
         	<p>
         		<img src="../img/key.png" alt="Direct with YouTube" class="img-responsive benefit_icon">
+        		<h3>Ownership</h3>
+        		<p>You own your channel and content, and we are your technology partner</p>
         	</p>
         </div>
     </div>
