@@ -17,3 +17,11 @@ body {
 .partner_container {
 	width: 40%;
 }
+
+p .parter {
+	text-align: right;
+}
+
+p .with_us {
+	text-align: left;
+}
