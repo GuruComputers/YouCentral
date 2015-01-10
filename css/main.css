@@ -89,6 +89,7 @@ header {
 
 .footer_copyright {
 	text-align: right;
+	display: inline-block;
 }
 
 .footer_guru {
