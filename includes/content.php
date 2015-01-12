@@ -101,3 +101,24 @@
      	</div>
      </div>
 </div>
+<a href="#form"></a>
+<form class="form-horizontal">
+    <div class="form-group">
+        <label for="youtubeusername" class="col-sm-2 control-label">Youtube Username</label>
+            <div class="col-sm-10">
+                <input type="text" class="form-control" id="youtubeusername" placeholder="Youtube Username">
+            </div>
+    </div>
+    <div class="form-group">
+        <label for="inputEmail" class="col-sm-2 control-label">Email</label>
+        <div class="col-sm-10">
+            <input type="email" class="form-control" id="inputEmail" placeholder="Email">
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="skypeusername" class="col-sm-2 control-label">Skype Username</label>
+            <div class="col-sm-10">
+                <input type="text" class="form-control" id="skypeusername" placeholder="Skype Username">
+            </div>
+    </div>
+  </form>
