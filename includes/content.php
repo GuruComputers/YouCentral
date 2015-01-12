@@ -101,39 +101,31 @@
      	</div>
      </div>
 </div>
+<div class="row text-center">
 <h1>Apply Today!</h1>
 <a name="form"></a>
 <?php
         // check for a successful form post
-        if (isset($_GET[‘s’])) {
-            echo “<div class=\”alert alert-success\”>”.$_GET[‘s’].”</div>”;
-        }
-        // check for a form error
-        elseif (isset($_GET[‘e’])) {
-            echo “<div class=\”alert alert-error\”>”.$_GET[‘e’].”</div>”;
+        if (isset($_GET['s'])) {
+            echo "<div class=\”alert alert-success\”><h1>".$_GET['s']."</h1></div>";
         }
 ?>
-<form method="POST" action="partner-application.php" class="form-horizontal">
-    <div class="form-group">
-        <label for="youtubeusername" class="col-sm-2 control-label">Youtube Username</label>
-            <div class="col-sm-4">
-                <input type="text" class="form-control" id="youtubeusername" placeholder="Youtube Username" required>
-            </div>
+<form method="POST" action="partner-application.php" class="row form-horizontal text-center" style="width:25%;margin-left:auto;margin-right:auto;">
+    <div class="control-group">
+        <label for="youtubeusername">Youtube Username</label>
+        <input type="text" name="youtubeusername" class="form-control" id="youtubeusername" placeholder="Youtube Username" required>
     </div>
-    <div class="form-group">
-        <label for="inputEmail" class="col-sm-2 control-label">Email</label>
-        <div class="col-sm-4">
-            <input type="email" class="form-control" id="inputEmail" placeholder="Email" required>
-        </div>
+    <div class="control-group">
+        <label for="inputEmail">Email</label>
+        <input type="email" name="email" class="form-control" id="inputEmail" placeholder="Email" required>
     </div>
-    <div class="form-group">
-        <label for="skypeusername" class="col-sm-2 control-label">Skype Username</label>
-            <div class="col-sm-4">
-                <input type="text" class="form-control" id="skypeusername" placeholder="Skype Username" required>
-            </div>
+    <div class="control-group">
+        <label for="skypeusername">Skype Username</label>
+        <input type="text" name="skypeusername" class="form-control" id="skypeusername" placeholder="Skype Username" required>
     </div>
     <div class="form-actions">
-        <input type=”hidden” name=”save” value=”contact”>
+        <input type=”hidden” name=”save” value=”contact” style="display:none;">
         <button type="submit" class="btn btn-primary">Apply Now!</button>
     </div>
   </form>
+</div>
