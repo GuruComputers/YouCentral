@@ -20,7 +20,7 @@
 	</div>
 	<div class="partner_container">
 		<div class="row partner_row">
-    		<div class="col-sm-12"><a href="form"><img src="img/partner.png" alt="hands shaking to signify partner" class="img-responsive partner_img"></a></div>
+    		<div class="col-sm-12"><a href="#form"><img src="img/partner.png" alt="hands shaking to signify partner" class="img-responsive partner_img"></a></div>
 		</div>
 	</div>
 </div>

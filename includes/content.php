@@ -105,9 +105,13 @@
 <a name="form"></a>
 <?php
         // check for a successful form post
-        if (isset($_GET[‘s’])) echo “<div class=\”alert alert-success\”>”.$_GET[‘s’].”</div>”;
+        if (isset($_GET[‘s’])) {
+            echo “<div class=\”alert alert-success\”>”.$_GET[‘s’].”</div>”;
+        }
         // check for a form error
-        elseif (isset($_GET[‘e’])) echo “<div class=\”alert alert-error\”>”.$_GET[‘e’].”</div>”;
+        elseif (isset($_GET[‘e’])) {
+            echo “<div class=\”alert alert-error\”>”.$_GET[‘e’].”</div>”;
+        }
 ?>
 <form method="POST" action="partner-application.php" class="form-horizontal">
     <div class="form-group">
