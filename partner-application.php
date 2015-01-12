@@ -13,10 +13,14 @@
 	$email_content .= "Skype Username: $skype";
 
 	// Send the Email
-	mail("apply@youcentral.tk","New Partner Application", $email_content, "YouCentral");
-
-	session_start();
-	$_SESSION['success'] = 'yes';
+	$to      = 'apply@youcentral.tk';
+	$subject = 'New Partner Application';
+	$message = $email_content;
+	$headers = 'From: webmaster@youcentral.tk' . "\r\n" .
+	'Reply-To: webmaster@youcentral.tk' . "\r\n" .
+   'X-Mailer: PHP/' . phpversion();
+   
+   	mail($to, $subject, $message, $headers);
 
 	// Send user back to the homepage
 	header("Location: ../index.php?s=".urlencode("Thankyou for your application.")."#form");

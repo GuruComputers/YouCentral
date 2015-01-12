@@ -117,7 +117,7 @@
     </div>
     <div class="control-group">
         <label for="inputEmail">Email</label>
-        <input type="email" name="email" class="form-control" id="inputEmail" placeholder="Email" required>
+        <input type="email" name="email" class="form-control" id="inputEmail" placeholder="Email" pattern="[a-zA-Z0-9.+_-]+@[a-zA-Z0-9.-]+\.[a-zA-Z0-9.-]+" required>
     </div>
     <div class="control-group">
         <label for="skypeusername">Skype Username</label>
