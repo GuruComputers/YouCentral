@@ -50,7 +50,7 @@
         	<p>
         		<img src="../img/music.png" alt="Direct with YouTube" class="img-responsive benefit_icon">
         		<h3>Music</h3>
-        		<p>See www.youtube.com/musiconanytv for the music you may use as our partner!</p>
+        		<p>See youtube.com/musiconanytv for the music you may use as our partner!</p>
         	</p>
         </div>
         <div class="col-sm-4 benefit">
